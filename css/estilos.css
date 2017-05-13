@@ -1,0 +1,19 @@
+.sinpa{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#fila2{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-image: url('../img/slider.jpg');
+	height: 400px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.carousel-indicators li{
+	border: 1px solid blue;
+}
+.carousel-indicators .active{
+	background-color: blue;
+}
